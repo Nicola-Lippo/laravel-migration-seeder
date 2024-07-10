@@ -10,10 +10,7 @@
 </head>
 
 <body>
-    <div class="container">
-        <h1 class="text-center">Template laravello</h1>
-        <img src="{{ Vite::asset('resources/img/foto.png') }}" alt="foto template">
-    </div>
+    <h1>prova</h1>
 </body>
 
 </html>
