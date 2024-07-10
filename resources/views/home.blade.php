@@ -1,16 +1,9 @@
-<!DOCTYPE html>
-<html lang="en">
+@extends('layouts.app')
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Laravel Template</title>
-    <!-- Includiamo gli assets con la direttiva vite-->
-    @vite('resources/js/app.js')
-</head>
-
-<body>
-    <h1>prova</h1>
-</body>
-
-</html>
+@section('main')
+    <main>
+        <div class="container">
+            <h1>PROVA INCLUSIONI</h1>
+        </div>
+    </main>
+@endsection
