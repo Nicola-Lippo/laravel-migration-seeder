@@ -1,6 +1,7 @@
 <header>
     <ul class="nav justify-content-center">
         <li class="nav-item">
+            <!--baffo baffo per route per navigare tra le pagine .blade-->
             <a class="nav-link active" aria-current="page" href="{{ route('home') }}">Home</a>
         </li>
         <li class="nav-item">

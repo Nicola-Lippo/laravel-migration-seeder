@@ -3,7 +3,7 @@
 @section('main')
     <main>
         <div class="container">
-            <h1>PROVA INCLUSIONI</h1>
+            <h1 class="text-center">WELCOME</h1>
         </div>
     </main>
 @endsection
