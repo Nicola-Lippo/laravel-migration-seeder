@@ -1,3 +1,4 @@
+MILESTONE 1
 Creiamo una tabella trains e relativa Migration
 
 Ogni treno dovrà avere:
@@ -16,4 +17,9 @@ Cancellato
 Inserite inizialmente i dati tramite PhpMyAdmin.
 
 Create Model relativo ed un Controller per mostrare nella home page tutti i treni che sono in partenza dalla data odierna.
+
+MILESTON 2
+fate una revisione del vostro codice,
+
+create un seeder per popolare la vostra tabella con almeno 50 treni utilizzando Faker.
 
